@@ -13,7 +13,7 @@ This directory contains notebooks and resources related to the CLIP project for 
 - [Instagram](https://www.instagram.com/silicon_brain)
 
 
-## Contributer
+## contributor
 - [Zahra Alizadeh](https://github.com/zahra-alizadeh)
 
 
