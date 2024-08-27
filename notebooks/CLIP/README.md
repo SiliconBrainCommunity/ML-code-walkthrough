@@ -12,3 +12,8 @@ This directory contains notebooks and resources related to the CLIP project for 
 - [Telegram](https://t.me/silicon_brain)
 - [Instagram](https://www.instagram.com/silicon_brain)
 
+
+## Contributer
+- [Zahra Alizadeh](https://github.com/zahra-alizadeh)
+
+
