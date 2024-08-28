@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-# Machine Learning Project
+# ML-code-walkthrough
 
 Welcome to the Machine Learning Project repository! This repository contains a collection of Jupyter notebooks and documentation that covers various aspects of machine learning. Whether you are a beginner or an experienced practitioner, you'll find valuable resources here to enhance your understanding and skills in machine learning.
 
