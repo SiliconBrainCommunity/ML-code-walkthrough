@@ -9,7 +9,6 @@
 Welcome to the Machine Learning Project repository! This repository contains a collection of Jupyter notebooks and documentation that covers various aspects of machine learning. Whether you are a beginner or an experienced practitioner, you'll find valuable resources here to enhance your understanding and skills in machine learning.
 
 ### Prerequisites
-Make sure you have the following installed:
 - Python 3.x
 - Jupyter Notebook
 
