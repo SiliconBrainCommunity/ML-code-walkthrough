@@ -4,7 +4,10 @@ This directory contains notebooks and resources related to the CLIP project for 
 
 - **CLIP_Silicon_Community.ipynb**: This notebook contains an example on how to use the CLIP model for various tasks related to image and text embeddings. It includes examples of how to load the model, preprocess data, and perform inference.
 
+
 CLIP is an Constrative Language-Imaege Pre-training, this means that image and text are having the very simialr embeddings in latent space. For more information you can also visit the OpenAI [github page] (https://github.com/openai/CLIP) and you can read the paper in [CLIP paper] (https://arxiv.org/abs/2103.00020). The below image is representing the overall architecture of the model.
+
+
 ![alt text](image.png)
 
 
