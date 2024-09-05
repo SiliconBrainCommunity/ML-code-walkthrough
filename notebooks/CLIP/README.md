@@ -10,6 +10,10 @@ CLIP is an Constrative Language-Imaege Pre-training, this means that image and t
 
 ![alt text](image.png)
 
+# Data
+The dataset used in this project is Food101 from torchvision package. It contains 101 food categories with 101,000 images. All images were rescaled to have a maximum side length of 512 pixels.
+
+
 
 ## CLIP Resources
 - [Colab](https://colab.research.google.com/drive/1KvmR5oIGrzatp5vCy60JWO9tSGngyQTv?usp=sharing)
